@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Surya-1423
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Data structures and algorithms.
+- Pursuing Bachelors degree in Computer Science from Bharati Vidyapeeth's College of Engineering.
